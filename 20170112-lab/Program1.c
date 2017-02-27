@@ -1,5 +1,4 @@
 //Brandon Franklin
-//20170209
 //Program 1 - Letter Guessing Game - Production
 
 #define _CRT_SECURE_NO_WARNINGS
